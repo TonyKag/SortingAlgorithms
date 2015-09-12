@@ -1,0 +1,22 @@
+http://rosettacode.org/wiki/Category:Programming_Tasks
+
+Sort using a custom comparator
+Sorting algorithms/Bead sort
+Sorting algorithms/Bogosort
+Sorting algorithms/Bubble sort
+Sorting algorithms/Cocktail sort
+Sorting algorithms/Comb sort
+Sorting algorithms/Counting sort
+Sorting algorithms/Gnome sort
+Sorting algorithms/Heapsort
+Sorting algorithms/Insertion sort
+Sorting algorithms/Merge sort
+Sorting algorithms/Pancake sort
+Sorting algorithms/Permutation sort
+Sorting algorithms/Quicksort
+Sorting algorithms/Radix sort
+Sorting algorithms/Selection sort
+Sorting algorithms/Shell sort
+Sorting algorithms/Sleep sort
+Sorting algorithms/Stooge sort
+Sorting algorithms/Strand sort
